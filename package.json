@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "description": "koa vue template engine",
   "main": "lib/index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "make build && mocha test/*.js"
   },
@@ -14,6 +15,7 @@
     "vue"
   ],
   "files": [
+    "index.d.ts",
     "lib/"
   ],
   "author": "haoxin",
