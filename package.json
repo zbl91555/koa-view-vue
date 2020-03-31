@@ -21,6 +21,7 @@
   "author": "haoxin",
   "license": "MIT",
   "dependencies": {
+    "htmlescape": "^1.1.1",
     "lodash.template": "^4.4.0",
     "lru-cache": "^4.1.1",
     "mz": "^2.7.0",
